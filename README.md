@@ -3,6 +3,8 @@ Monefy Assignment | Exploratory Testing Task | Mobile Testing Task |
 # Task1
 Monefy_TestSuite
 Monefy.xlsx contains test suite in Microsoft Excel format.
+Path to find the Task 1:  
+Monefy_Assignment/Task1-Exploratory Test Cases/
 
 # Task2
 
